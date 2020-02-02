@@ -1,5 +1,5 @@
 # Variational Hierarchical User-based Conversation Model
-Implementation of Variational Hierarchical User-based Conversation Model (VHUCM) in EMNLP-IJCNLP 2019
+Implementation of [Variational Hierarchical User-based Conversation Model (VHUCM)](https://www.aclweb.org/anthology/D19-1202/) in EMNLP-IJCNLP 2019.
 
 ## Environment
 We run this code in this environment.
