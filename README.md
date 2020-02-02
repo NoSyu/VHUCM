@@ -44,3 +44,8 @@ We use [Cornell Movie Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Corne
 - https://github.com/ctr4si/A-Hierarchical-Latent-Structure-for-Variational-Conversation-Modeling
 - https://github.com/jiweil/Neural-Dialogue-Generation
 - https://github.com/OpenXAIProject/Neural-Conversation-Models
+
+
+## Discussion
+Please let us know if you have any questions or requests by issues or email.
+(First author of the paper page: https://nosyu.github.io/)
